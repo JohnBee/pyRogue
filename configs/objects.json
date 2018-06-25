@@ -1,0 +1,9 @@
+[
+	{
+		"id":0,
+		"name":"wall",
+		"passable":false,
+		"health":100
+	}
+	
+]
